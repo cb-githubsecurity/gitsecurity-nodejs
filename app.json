@@ -12,11 +12,11 @@
     "vulnerabilities"  
   ],
   "image": "heroku/nodejs",
+  "apikey": "glpat-N-K2jziMVXvRq1XKzXpY",
   "scripts": {},
   "env": {
     "MONGOLAB_URI": {
       "required": true
-       "secretkey": 'I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D'
     }
   },
   "formation": {
