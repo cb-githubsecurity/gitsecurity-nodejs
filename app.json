@@ -9,7 +9,8 @@
     "heroku",
     "node",
     "security",
-    "vulnerabilities"
+    "vulnerabilities",
+    "secretkey": 'I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D'
   ],
   "image": "heroku/nodejs",
   "scripts": {},
