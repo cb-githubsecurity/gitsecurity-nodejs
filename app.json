@@ -13,6 +13,7 @@
   ],
   "image": "heroku/nodejs",
   "apikey": "glpat-N-K2jziMVXvRq1XKzXpY",
+  "secretkey": 'I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D',
   "scripts": {},
   "env": {
     "MONGOLAB_URI": {
