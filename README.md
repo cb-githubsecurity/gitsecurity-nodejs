@@ -13,7 +13,7 @@ This vulnerable app includes the following capabilities to experiment with:
 ## Running
 ```bash
 mongod &
-
+glpat-srwNyMFxKpr1z2AzNWXw
 git clone https://github.com/snyk/goof.git
 npm install
 npm start
